@@ -1,0 +1,177 @@
+    1  sudo rm -rf .bash_history 
+    2  sudo cloud-init clean
+    3  apt -get install /home/labuser/D
+    4  apt-get install /home/labuser/D
+    5  sudo snap install --classic code
+    6  git --version
+    7  mkdir gitdee
+    8  cd gitdee
+    9  mkdir proj1
+   10  cd proj1
+   11  git init
+   12  ls -a
+   13  git status
+   14  git branch
+   15  git add dee1
+   16  git status
+   17  git commit -m "added msg"
+   18  git config --global user.email "deeksha.vuppala23@gmail.com"
+   19  git config --global user.name "Deeksha"
+   20  git config --global user.email deeksha.vuppala23@gmail.com
+   21  git config --global user.name Deeksha
+   22  git commit -m "added msg"
+   23  git branch pir
+   24  git checkout pir
+   25  ls -a
+   26  git branch
+   27  git checkout master
+   28  git commit -m "added"
+   29  git commit -a
+   30  git checkout pir
+   31  ls -a
+   32  git status
+   33  git checkout master
+   34  git add dee1
+   35  git status
+   36  git commit -m "jhgd"
+   37  git status
+   38  ls -a
+   39  git add ind.html
+   40  git status
+   41  ls -a
+   42  git checkout pir
+   43  ls -a
+   44  git commit -m "commit"
+   45  git checkout master
+   46  ls -a
+   47  git status
+   48  git add ind2.html
+   49  git commit -m "xjhg"
+   50  git status
+   51  git checkout pir
+   52  ls -a
+   53  git checkout master
+   54  git status
+   55  git add ind3.html
+   56  git checkout pir
+   57  ls -a
+   58  git branch
+   59  git commit -m"ind3commited"
+   60  git checkout master
+   61  ls -a
+   62  git checkout pir
+   63  git status
+   64  git checkout master
+   65  git status
+   66  git checkout pir
+   67  ls -a
+   68  git branch pir2
+   69  ls -a
+   70  git status
+   71  git add ind4.html
+   72  git checkout master
+   73  git branch b1
+   74  git checkout master
+   75  ls -a
+   76  git checkout b1
+   77  ls -a
+   78  git checkout master
+   79  git branch b2
+   80  git branch b3
+   81  git branch b4
+   82  git branch b5
+   83  git ckeckout b2
+   84  git checkout b2
+   85  ls -a
+   86  git status
+   87  git master
+   88  git checkout masteer
+   89  git checkout master
+   90  git add fi*
+   91  git status
+   92  git checkout b2
+   93  ls -a
+   94  git status
+   95  git checkout b3
+   96  vi sep.txt
+   97  ls -a
+   98  git checkout b4
+   99  vi sep2.txt
+  100  git checkout b5
+  101  git checkout master
+  102  ls -a
+  103  git branch -delete b5
+  104  git branch -d b5
+  105  git branch -d b4
+  106  git branch -d b3
+  107  git branch -d b2
+  108  git branch
+  109  git branch b2
+  110  git checkout master
+  111  git branch b3
+  112  ls -a
+  113  git branch
+  114  git merge b2 master
+  115  git checkout b2
+  116  git add ind5.txt
+  117  ls -a
+  118  git checkout master
+  119  git branch
+  120  git init
+  121  ls -a
+  122  git branch
+  123  git status
+  124  git add dee.html
+  125  git branch
+  126  git commit -m"deeksha"
+  127  git branch b1
+  128  git checkout master
+  129  git status
+  130  git ck
+  131  git checkout b1
+  132  git checkout master
+  133  git branch b2
+  134  git status
+  135  git checkout b2
+  136  git checkout master
+  137  git branch b3
+  138  git checkout master
+  139  git branch b4
+  140  git checkout master
+  141  ls -l
+  142  git add dee.html
+  143  git status
+  144  git checkout b2
+  145  ls -a
+  146  git add f*
+  147  git tatus
+  148  git status
+  149  git checkout master
+  150  git commit -m "djgdj"
+  151  git checkout b2
+  152  git status
+  153  git ass dee*
+  154  git add dee*
+  155  ls -a
+  156  git merge master
+  157  ls -a
+  158  git checkout b3
+  159  ls -a
+  160  git status
+  161  git checkout master
+  162  git commit -m "hgxj"
+  163  git merge b3
+  164  git checkout master
+  165  git checkout b3
+  166  git merge master
+  167  git checkout master
+  168  git checkout b3
+  169  git commit -m "jhgc"
+  170  git checkout b4
+  171  ls -a
+  172  cd ..
+  173  git clone https://github.com/deeksha2323/InventoryManagement.git
+  174  cd InventoryManagement/
+  175  ls -a
+  176  history
+  177  history>notegit.txt
